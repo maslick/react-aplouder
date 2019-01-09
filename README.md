@@ -7,4 +7,4 @@ React component for [Aplouder](https://github.com/maslick/aplouder)
 
 
 ## Demo 
-[see here](https://maslick.github.io/react-aplouder/demo/)
+[see here](https://maslick.github.io/react-aplouder/demo/index.html)
