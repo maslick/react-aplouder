@@ -1,0 +1,9 @@
+body {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.mybox {
+    padding: 15px 0;
+}
